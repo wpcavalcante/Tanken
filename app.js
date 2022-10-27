@@ -66,6 +66,3 @@ app.listen(process.env.PORT || 3000, function(){
 
 
 
-//8c5ace3c6b4c71c58cda861441796350-us8 API
-
-//b0e16b4f9b List
